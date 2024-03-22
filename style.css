@@ -15,7 +15,6 @@ body {
     font-family: 'Chakra Petch', sans-serif;
 }
 
-
 .conteudo-principal {
     display: flex;
     flex-direction: column;
@@ -30,6 +29,14 @@ body {
     text-align: left;
     width: 100%;
     font-size: 32px;
+}
+
+.imagem-dinheiro {
+    width: 120px;
+}
+
+.imagem-trabalho {
+    width: 120px;
 }
 
 .titulo-principal span {
@@ -73,6 +80,7 @@ body {
 }
 .aba-conteudo.ativo{
     display:block;
+    text-align: center;
 }
 
 .aba-conteudo{
